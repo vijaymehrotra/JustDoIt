@@ -1,4 +1,4 @@
-## Todo App
+## JustDoIt
 A full-stack todo application built with React, TypeScript, and Golang.
 
 ## Screenshots
